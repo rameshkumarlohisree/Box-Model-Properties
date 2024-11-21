@@ -1,0 +1,86 @@
+<html>
+    <head>
+        <style>
+            .box0{
+                font-size: 60px;
+                color: red;
+            background-color: rgb(22, 22, 199);
+            border: 5px solid rgb(1, 79, 1);
+            width: 200;
+            height: 70;
+            padding: 30px 30px 30px 30px;
+            margin: 10px 50px 50px 120px;
+            }
+          .box1{
+            color: rgb(11, 174, 174);
+            background-color: blanchedalmond;
+            border: 5px solid brown;
+            width:320 ;
+            height: 150;
+            padding: 30px 30px 30px 30px;
+            margin: 20px 20px 20px 20px;
+          }
+          .box2{
+            color: rgb(36, 84, 215);
+            background-color: rgb(255, 205, 209);
+            border: 5px solid black;
+            width: 320;
+            height: 150;
+            padding: 30px 30px 30px 30px;
+            margin: 20px 20px 20px 20px;
+          }
+          .box3{
+            color: rgb(174, 11, 106);
+            background-color: rgb(159, 231, 165);
+            border: 5px solid rgb(100, 5, 5);
+            width: 400;
+            height: 150;
+            padding: 30px 30px 30px 30px;
+            margin: 20px 20px 20px 20px;
+          }
+          .box4{
+            color: rgb(11, 174, 136);
+            background-color: rgb(255, 205, 248);
+            border: 5px solid rgb(113, 113, 235);
+            width: 400;
+            height: 150;
+            padding: 30px 30px 30px 30px;
+            margin: 20px 20px 20px 20px;
+          }
+          .box5{
+            color: rgb(14, 155, 91);
+            background-color: rgb(234, 175, 88);
+            border: 5px solid rgb(42, 69, 159);
+            width: 450;
+            height: 150;
+            padding: 30px 30px 30px 30px;
+            margin: 20px 20px 20px 20px;
+          }
+        </style>
+    </head>
+    <body>
+        <img id="i1" src="th (4).jpg" alt="Image not found">
+        <img id="i1" src="th (4).jpg" alt="Image not found">
+        <div class="box box0">Triangle</div>
+      <div class="box box1">
+       <h1> SSS (Side-Side-Side)</h1>
+        If all the three sides of one triangle are equivalent to the corresponding three sides of the second triangle, then the
+        two triangles are said to be congruent by SSS rule.
+      </div>
+      <div class="box box2"><h1>SAS (Side-Angle-Side)</h1>
+    If any two sides and the angle included between the sides of one triangle are equivalent to the corresponding two sides
+    and the angle between the sides of the second triangle, then the two triangles are said to be congruent by SAS rule.
+      </div>
+<div class="box box3"><h1>ASA (Angle-Side- Angle)</h1>
+If any two angles and the side included between the angles of one triangle are equivalent to the corresponding two
+angles and side included between the angles of the second triangle, then the two triangles are said to be congruent by
+ASA rule.</div>
+<div class="box box4"><h1>AAS (Angle-Angle-Side) </h1>
+AAS stands for Angle-Angle-Side. When two angles and a non-included side of a triangle are equal to the corresponding
+angles and sides of another triangle, then the triangles are said to be congruent.</div>
+<div class="box box5"><h1>RHS (Right angle- Hypotenuse-Side)</h1>
+If the hypotenuse and a side of a right- angled triangle is equivalent to the hypotenuse and a side of the second right-
+angled triangle, then the two right triangles are said to be congruent by RHS rule.
+</div>  
+    </body>
+</html>
